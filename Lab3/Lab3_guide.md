@@ -41,26 +41,49 @@
 ### Configurer Jenkins
 1. Réinitaliser le mot de passe admin
 2. Installer les plugins (jdk - maven - docker -sonarqube - kubernetes - nodjs)
-    1. Eclipse Temurin installer
-    1. Javadoc
-    1. JSch dependency	 
-    1. Maven Integration	 
-    1. Pipeline Maven Plugin API	 
-    1. Config File Provider	 
-    1. Pipeline Maven Integration	 
-    1. Pipeline Maven Plugin API	 
-    1. SonarQube Scanner	 
-    1. Cloud Statistics	 
-    1. Authentication Tokens API	 
-    1. Docker Commons	 
-    1. Apache HttpComponents Client 5.x API	 
-    1. Docker API	 
-    1. Docker	 
-    1. docker-build-step	 
-    1. Kubernetes Client API	 
-    1. Kubernetes Credentials	 
-    1. Kubernetes	 
-    1. Kubernetes Credentials Provider
+Plugins:
+
+ jdk
+
+        1. Eclipse Temurin installer
+
+maven
+
+        1. Maven Integration     
+
+        1. Pipeline Maven Plugin API     
+
+        1. Config File Provider  
+
+        1. Pipeline Maven Integration    
+
+        1. Pipeline Maven Plugin API    
+
+Sonarqube 
+
+        1. SonarQube Scanner     
+
+Docker  
+
+        1. Docker API    
+
+        1. Docker    
+
+        1. docker-build-step
+
+Kubernetes    
+
+        1. Kubernetes Client API     
+
+        1. Kubernetes Credentials    
+
+        1. Kubernetes    
+
+        1. Kubernetes Credentials Provider
+
+Nodejs
+
+        1. NodeJS
     
 1. Configurer les outils
     1. jdk17
