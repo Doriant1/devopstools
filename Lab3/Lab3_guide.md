@@ -95,6 +95,13 @@ Nodejs
     1. docker
     ![alt text](image.png)
 1. Création des credentials (Github - Dockerhub - Sonarqube)
+    C'ets sur Sonarqube qu'on génè la clé
+    ![alt text](image-4.png)
+
+    ensuite on le copie et le colle dans Jenkins 
+    ![alt text](image-5.png)
+    ![alt text](image-6.png)
+
 1. Configurer le système
     1. sonar > http://localhost:900 
 1. Créer un onfiguration Global-Settings
