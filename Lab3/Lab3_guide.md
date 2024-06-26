@@ -64,9 +64,13 @@
     
 1. Configurer les outils
     1. jdk17
+    ![alt text](image-3.png)
     1. maven3
+    ![alt text](image-1.png)
     1. sonar-scanner
+![alt text](image-2.png)
     1. docker
+    ![alt text](image.png)
 1. Création des credentials (Github - Dockerhub - Sonarqube)
 1. Configurer le système
     1. sonar > http://localhost:900 
