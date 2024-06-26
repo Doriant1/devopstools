@@ -104,7 +104,7 @@ Nodejs
 
 1. Configurer le système
     1. sonar > http://localhost:900 
-1. Créer un onfiguration Global-Settings
+1. Créer un onfiguration Global-Settings 
 
 ### Création de Pipeline CI/CD
 1. Créer une nouvelle Pipeline CI/CD sous Jenkins 'cicd_app1'
@@ -113,4 +113,4 @@ Nodejs
 1. Démarrer la construction *build* et voir le résultat
 1. Va dans dockerhub.com et voir si l'image a été bien présente dans votre répértoire.
 
-
+dsdssf
